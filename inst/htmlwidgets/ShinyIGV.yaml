@@ -1,0 +1,15 @@
+dependencies:
+  - name: ShinyIGV
+    version: 1.0.0
+    src: htmlwidgets/lib/ShinyIGV-1.0.0/
+    script:
+        - jquery-ui.min.js
+        - igv-1.0.1.js
+    stylesheet:
+      - font-awesome.min.css
+      - igv-1.0.1.css
+      - jquery-ui.css
+    meta:
+      - fontawesome.webfont.woff
+      - img/igv_log_letters_paths.svg
+      -
