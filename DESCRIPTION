@@ -1,8 +1,8 @@
 Package: ShinyIGV
 Type: Package
-Title: What the Package Does (Title Case)
+Title: R Shiny HTMLWidget Wrapper for IGV.JS
 Version: 0.1.0
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: More about what it does (maybe more than one line)
+Authors@R: person("Jeremy", "Kaplan", email = "jeremybk@umich.edu", role = c("aut", "cre"))
+Description: Uses the HTMLWidgets package to wrap IGV.JS. Currently simple wrapper that allows a user to pass all objects as R lists, and then does the JS bindings.
 License: What license is it under?
 LazyData: TRUE
